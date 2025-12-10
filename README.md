@@ -68,7 +68,7 @@ The AI server sends crime alerts instantly to the GuardianEye dashboard:
 ---
 # 🏗️ System Architecture
 
-IoT / CCTV Camera
+- IoT / CCTV Camera
 ↓
 AI Server (YOLOv8 + CNN Models)
 ↓
