@@ -36,7 +36,8 @@ The AI server sends crime alerts instantly to the GuardianEye dashboard:
 - Confidence score  
 - Timestamp  
 - Camera ID  
-- Location  
+- Location
+- Crime Images & Videos  
 
 ---
 ## 📸 Dashboard Screenshots
@@ -97,7 +98,7 @@ python ai_server.py
 ## 3️⃣ Test the Camera Feed
 ```bash
 python test_cam.py
-
+```
 
 
 
