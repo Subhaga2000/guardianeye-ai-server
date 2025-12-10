@@ -1,0 +1,7 @@
+flask
+opencv-python-headless
+mysql-connector-python
+ultralytics
+torch
+torchvision
+tensorflow

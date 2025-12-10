@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtualenv / IDE
+.vscode/
+.idea/
+
+# Data and models (do not commit raw data / large model files)
+/data/
+*.h5
+*.pt
+*.pth
+/models/
+*.ckpt
+
+# Mac / system files
+.DS_Store
