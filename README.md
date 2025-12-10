@@ -54,15 +54,15 @@ The AI server sends crime alerts instantly to the GuardianEye dashboard:
 
 # 📂 Project Structure
 
-CRIMEANALYSIS_AI
-│── .vscode/
-│── screenshots/
-│── venv/
-│── .gitignore
-│── ai_server.py
-│── README.md
-│── requirements.txt
-│── test_cam.py
+- CRIMEANALYSIS_AI
+  - vscode/
+  - screenshots/
+  - venv/
+  - .gitignore
+  - ai_server.py
+  - README.md
+  - requirements.txt
+  - test_cam.py
 
 
 ---
